@@ -1,7 +1,4 @@
 work
-<<<<<<< HEAD
-work4
-=======
+work1
+work2
 work3
-
->>>>>>> cc111ae24c08448f53e710faa80425030ebc3c60
